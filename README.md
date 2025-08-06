@@ -42,7 +42,7 @@ Designed during an internship project at **Omeife Technologies**, this chatbot p
 Optometrist | Data Analyst | Health Tech Enthusiast | Data Scientist 
 GitHub: [@Techpathway-hub](https://github.com/Techpathway-hub)
 
-**HIKAogar**  
+**Agede Ogar**  
 Data Scientist 
 GitHub: [@HIKAogar](https://github.com/HIKAogar)
 
