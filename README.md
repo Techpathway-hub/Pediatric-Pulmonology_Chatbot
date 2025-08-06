@@ -20,6 +20,7 @@ It uses a rule-based decision tree to offer **safe, non-critical advice**.
 
 ## Technologies Used
 
+- Python
 - Pandas
 - Streamlit
 - GitHub
